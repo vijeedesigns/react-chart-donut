@@ -1,0 +1,35 @@
+{
+	"name": "react-chart-donut",
+	"version": "1.0.4",
+	"description": "This package will help you to install and work with stand-alone donut chart which is made in React.",
+	"main": "./build/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack"
+	},
+	"peerDependencies": {
+		"prop-types": "^15.6.0",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0"
+	},
+	"keywords": [
+		"react donut",
+		"donut chart",
+		"javascript donut chart"
+	],
+	"author": "Vijeesh P N",
+	"license": "MIT",
+	"devDependencies": {
+		"babel-core": "^6.21.0",
+		"babel-loader": "^7.1.4",
+		"babel-preset-env": "^1.6.1",
+		"babel-preset-react": "^6.16.0",
+		"babel-preset-stage-0": "^6.24.1",
+		"path": "^0.12.7",
+		"prop-types": "^15.6.0",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0",
+		"webpack": "^4.5.0",
+		"webpack-cli": "^3.2.1"
+	}
+}
